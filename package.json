@@ -1,6 +1,6 @@
 {
   "name": "ymodules-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-      "babel-core": "^6.1.2"
+    "babel-core": "^6.1.2"
   },
   "devDependencies": {
     "eslint": "^1.9.0",
